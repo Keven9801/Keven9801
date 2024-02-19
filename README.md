@@ -18,6 +18,6 @@
 </div>
 
 
-### estudo de idioma (ingles)
+### estudo de idiomas (ingles)
 
 <img algin="center" alt="python" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
