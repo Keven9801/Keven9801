@@ -15,7 +15,6 @@ Sou um entusiasta de tecnologia com habilidade nas linguagens de programação p
 
 Desenvolvi um projeto inovador para uma loja de automóveis, empregando tecnologias de ponta como Python para a lógica de programação, Django para a estrutura do back-end, PostgreSQL como banco de dados, OpenAI para integração de inteligência artificial, e AWS para a infraestrutura em nuvem. Este projeto visa proporcionar uma experiência digital única e eficiente para os clientes da loja
 
-Atualmente estou começando um projeto SGE completo.
 
 🌍 Idiomas
 Inglês: Básico/Técnico
