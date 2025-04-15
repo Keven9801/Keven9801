@@ -6,10 +6,13 @@
 
 
 
+
+
 🌟 Sobre Mim
 Sou um entusiasta de tecnologia com habilidade nas linguagens de programação python, C/C++ e ferramentas modernas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sempre buscando aprender e melhorar minhas habilidades. Estou focado em desenvolvimento back-end com Python e Django, além de possuir conhecimentos sólidos em bancos de dados como PostgreSQL e SQLite.
 
 💼 Experiência e Projetos
+
 Desenvolvi um projeto inovador para uma loja de automóveis, empregando tecnologias de ponta como Python para a lógica de programação, Django para a estrutura do back-end, PostgreSQL como banco de dados, OpenAI para integração de inteligência artificial, e AWS para a infraestrutura em nuvem. Este projeto visa proporcionar uma experiência digital única e eficiente para os clientes da loja
 
 Atualmente estou começando um projeto SGE completo.
@@ -19,8 +22,6 @@ Inglês: Básico/Técnico
 português: Nativo
 Espanhol: Básico
 
-
-📊 ![Keven GitHub stats](https://github-readme-stats.vercel.app/api?username=Keven9801&show_icons=true&theme=dark)
 
 📫 Contato
 <p align="center"> <a href="https://www.linkedin.com/in/keven-silva-3ab929198"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/kevinho.98s/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> </p>
